@@ -57,7 +57,7 @@ body{
 .toast.error i{
     color: red;
 }
-.toast.invalid i {
+.toast.invalid i{
     color: orange;
 }
 .toast::after{
